@@ -1,6 +1,3 @@
-# Clone-Site
-Clone of an Existing Repo
-
 # 🎮 Tic Tac Toe Game
 
 A simple **Tic Tac Toe** game implemented in Python.  
